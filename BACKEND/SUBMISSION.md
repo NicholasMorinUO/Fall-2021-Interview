@@ -1,13 +1,12 @@
 ## Repository: 
 
 ```
-PLACE_REPO_LINK_HERE
+https://github.com/NicholasMorinUO/fall_2021_interview_backend
 ```
 
 ## Run Instructions
 
-ADD_INSTRUCTIONS_ON_HOW_TO_RUN_YOUR_APP
+I don't have any instructions apart from reading the code since it does not work.
 
 ## Additional Information
-
-ANYTHING_ELSE_YOU_WOULD_LIKE_TO_SHARE
+The vast majority of the code included is not mine. However, I can try to explain what I've learned from playing around with it.
